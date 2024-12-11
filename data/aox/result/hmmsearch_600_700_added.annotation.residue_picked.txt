@@ -1,0 +1,16 @@
+	Position in Reference	Reference	Position in alignment	Consensus_label	Consensus_description	Occupancy	Conservation_level	Conservation_description
+0	567	H	942	H	H 99.2%; N 0.3%; R 0.3%	393	10	aromatic, charged, hydrophobic, polar, positive, !aliphatic, !negative, !proline, !small, !tiny
+1	616	N	1018	N	N 95.9%; H 3.3%	391	5	polar, !aliphatic, !negative, !proline, !tiny
+2	98	F	148	F	F 96.2%; G 2.0%; A 1.3%	392	10	aromatic, hydrophobic, !aliphatic, !charged, !negative, !polar, !positive, !proline, !small, !tiny
+3	566	W	941	W	W 95.7%; L 3.0%; C 0.3%; R 0.3%; S 0.3%	392	7	hydrophobic, !charged, !negative, !positive, !proline, !small, !tiny
+4	417	F	696	F	F 95.2%; Y 2.5%; G 1.0%; A 0.3%; L 0.3%; W 0.3%	392	10	aromatic, hydrophobic, !aliphatic, !charged, !negative, !polar, !positive, !proline, !small, !tiny
+5	660	L	1081	L	L 41.1%; Q 0.8%; A 0.3%	166	0	-
+6	661	A	1082	A	A 21.8%; S 17.5%; G 1.5%; H 0.3%	162	0	-
+7	662	R	1083	R	R 38.8%	153	0	-
+8	663	F	1084	L	L 11.4%; F 4.8%; Y 0.3%	65	0	-
+9	13	G	12	G	G 98.2%; A 0.3%	388	10	hydrophobic, small, tiny, !aliphatic, !aromatic, !charged, !negative, !polar, !positive, !proline
+10	14	G	13	G	G 98.5%	388	11	hydrophobic, small, tiny, !aliphatic, !aromatic, !charged, !negative, !polar, !positive, !proline
+11	15	G	14	G	G 98.5%	388	11	hydrophobic, small, tiny, !aliphatic, !aromatic, !charged, !negative, !polar, !positive, !proline
+12	16	S	15	S	S 74.6%; P 19.3%; T 3.8%; A 0.8%	388	6	small, !aliphatic, !aromatic, !charged, !negative, !positive
+13	17	S	16	C	C 36.3%; A 28.7%; S 18.0%; T 15.5%	388	7	small, !aliphatic, !aromatic, !charged, !negative, !positive, !proline
+14	18	G	21	G	G 98.0%; A 0.5%	388	10	hydrophobic, small, tiny, !aliphatic, !aromatic, !charged, !negative, !polar, !positive, !proline
