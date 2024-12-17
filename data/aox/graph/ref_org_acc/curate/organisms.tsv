@@ -1,0 +1,81 @@
+taxid	name	rank	type
+1442373	Achatina achatina	species	1
+145126	Arion ater	species	1
+1665	Arthrobacter globiformis	species	1
+40380	Aspergillus ochraceus	species	1
+33178	Aspergillus terreus	species	1
+5204	Basidiomycota	phylum	2
+409370	Blastobotrys adeninivorans (Yeast) (Arxula adeninivorans)	species	1
+5477	Candida boidinii (Yeast)	species	1
+273372	Candida metapsilosis	species	1
+1853550	Candida sp. (in: Saccharomycetales)	species	1
+5482	Candida tropicalis	species	1
+34406	Colletotrichum destructivum	species	1
+31870	Colletotrichum graminicola	species	1
+1209068	Colletotrichum tabaci	species	1
+34028	Comamonas sp.	species	1
+6535	Cornu aspersum	species	1
+5499	Fulvia fulva	species	1
+4751	Fungi	kingdom	2
+104355	Gloeophyllum trabeum	species	1
+104355	Gloeophyllum trabeum (Brown rot fungus) (Agaricus trabeus)	species	1
+6945	Ixodes scapularis (Black-legged tick) (Deer tick)	species	1
+4922	Komagataella pastoris	species	1
+4922	Komagataella pastoris (Yeast) (Pichia pastoris)	species	1
+460519	Komagataella phaffii	species	1
+317047	Kuraishia capsulata	species	1
+4955	Lachancea fermentati (Zygosaccharomyces fermentati)	species	1
+1580	Levilactobacillus brevis	species	1
+2315439	Lissachatina fulica	species	1
+153609	Moniliophthora perniciosa (Witches'-broom disease fungus) (Marasmius perniciosus)	species	1
+42190	Ochrobactrum sp.	species	1
+870730	Ogataea angusta	species	1
+36023	Ogataea glucozyma	species	1
+36024	Ogataea henricii	species	1
+1156966	Ogataea methanolica	species	1
+1156966	Ogataea methanolica (Yeast) (Pichia methanolica)	species	1
+53649	Ogataea methylovora	species	1
+36026	Ogataea minuta	species	1
+50265	Ogataea naganishii	species	1
+1378263	Ogataea philodendri	species	1
+51923	Ogataea pignaliae	species	1
+4923	Ogataea pini	species	1
+4923	Ogataea pini (Yeast) (Pichia pinus)	species	1
+460523	Ogataea polymorpha	species	1
+246385	Ogataea siamensis	species	1
+310468	Ogataea thermomethanolica (nom. inval.)	species	1
+50267	Ogataea trehalophila	species	1
+1249076	Ogataea wickerhamii	species	1
+264951	Paecilomyces variotii	species	1
+5076	Penicillium chrysogenum	species	1
+69782	Penicillium purpurescens	species	1
+2822231	Phanerodontia chrysosporium	species	1
+2822231	Phanerodontia chrysosporium (White-rot fungus) (Sporotrichum pruinosum)	species	1
+82310	Phlebiopsis gigantea	species	1
+870730	Pichia angusta (Yeast) (Hansenula polymorpha)	species	1
+4925	Pichia sp.	species	1
+300826	Pichia sp. BZ159	species	1
+563466	Pseudallescheria apiosperma (Scedosporium apiospermum)	species	1
+2060973	Purpureocillium takamizusanense	species	1
+1156840	Radulodon casearius	species	1
+77044	Rosellinia necatrix (White root-rot fungus)	species	1
+27305	Schwanniomyces vanrijiae	species	1
+2028339	Spathaspora sp. JA1	species	1
+75736	Starmerella bombicola	species	1
+75736	Starmerella bombicola (Yeast) (Candida bombicola)	species	1
+1108050	Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) (Lettuce bottom rot fungus) (Rhizoctonia solani)	no rank	1
+29323	Thermoanaerobacter brockii	species	1
+5087	Thermoascus aurantiacus	species	1
+4950	Torulaspora delbrueckii (Yeast) (Candida colliculosa)	species	1
+44093	Trichomonascus ciferrii	species	1
+4952	Yarrowia lipolytica (Candida lipolytica)	species	1
+2768839	Yarrowia sp. B02	species	1
+2768841	Yarrowia sp. E02	species	1
+42258	Zygosaccharomyces mellis	species	1
+4956	Zygosaccharomyces rouxii (Candida mogii)	species	1
+5477	[Candida] boidinii	species	1
+50262	[Candida] methanosorbosa	species	1
+246387	[Candida] sithepensis	species	1
+51926	[Candida] sonorensis	species	1
+561895	[Candida] subhashii	species	1
+51927	[Candida] succiphila	species	1

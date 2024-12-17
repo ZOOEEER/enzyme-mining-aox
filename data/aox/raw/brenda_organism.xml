@@ -1,0 +1,878 @@
+<div id="tab20" class="equal" style="display: block;">
+<div id="tab20_head" class="row">
+<div class="header">ORGANISM <a href="javascript:sortTable('tab20',0,'asc')"><img id="tab20h0_up" class="sort_img" src="./images/up_new.png"></a><a href="javascript:sortTable('tab20',0,'desc')"><img id="tab20h0_down" class="sort_img" src="./images/down_new.png"></a></div>
+<div class="header">COMMENTARY <a href="javascript:sortTable('tab20',1,'asc')"><img id="tab20h1_up" class="sort_img" src="./images/up_new.png"></a><a href="javascript:sortTable('tab20',1,'desc')"><img id="tab20h1_down" class="sort_img" src="./images/down_new.png"></a><a class="hidecomment" href="javascript:hideComment('tab20',1)"><img class="remove_img" src="./images/remove.png" title="hide commentaries" alt="hide"></a></div>
+<div class="header">LITERATURE <a href="javascript:sortTable('tab20',2,'asc')"><img id="tab20h2_up" class="sort_img" src="./images/up_new.png"></a><a href="javascript:sortTable('tab20',2,'desc')"><img id="tab20h2_down" class="sort_img" src="./images/down_new.png"></a></div>
+<div class="header">UNIPROT <a href="javascript:sortTable('tab20',3,'asc')"><img id="tab20h3_up" class="sort_img" src="./images/up_new.png"></a><a href="javascript:sortTable('tab20',3,'desc')"><img id="tab20h3_down" class="sort_img" src="./images/down_new.png"></a></div>
+<div class="header">SEQUENCE DB <a href="javascript:sortTable('tab20',4,'asc')"><img id="tab20h4_up" class="sort_img" src="./images/up_new.png"></a><a href="javascript:sortTable('tab20',4,'desc')"><img id="tab20h4_down" class="sort_img" src="./images/down_new.png"></a></div>
+<div class="header"> SOURCE <a href="javascript:sortTable('tab20',5,'asc')"><img id="tab20h5_up" class="sort_img" src="./images/up_new.png"></a><a href="javascript:sortTable('tab20',5,'desc')"><img id="tab20h5_down" class="sort_img" src="./images/down_new.png"></a></div>
+</div>
+<div id="tab20r0sr0" class="row rgrey2">
+<div id="tab20r0sr0c0" class="cell"><span><a href="javascript:Org('1442373')">Achatina achatina</a>
+</span></div><div id="tab20r0sr0c1" class="cell"><span>-
+</span></div><div id="tab20r0sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=484921" target="_blank">484921</a>
+</span></div><div id="tab20r0sr0c3" class="cell"><span>-
+</span></div><div id="tab20r0sr0c4" class="cell"><span>-
+</span></div><div id="tab20r0sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r1sr0" class="row rgrey1">
+<div id="tab20r1sr0c0" class="cell"><span><a href="javascript:Org('145126')">Arion ater</a>
+</span></div><div id="tab20r1sr0c1" class="cell"><span>-
+</span></div><div id="tab20r1sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=484921" target="_blank">484921</a>
+</span></div><div id="tab20r1sr0c3" class="cell"><span>-
+</span></div><div id="tab20r1sr0c4" class="cell"><span>-
+</span></div><div id="tab20r1sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r2sr0" class="row rgrey2">
+<div id="tab20r2sr0c0" class="cell"><span><a href="javascript:Org('1665')">Arthrobacter globiformis</a>
+</span></div><div id="tab20r2sr0c1" class="cell"><span>cf. EC 1.1.3.17
+</span></div><div id="tab20r2sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=762910" target="_blank">762910</a>
+</span></div><div id="tab20r2sr0c3" class="cell"><span><a href="javascript:Sequence2('Q7X2H8')">Q7X2H8</a>
+</span></div><div id="tab20r2sr0c4" class="cell"><span>Swissprot
+</span></div><div id="tab20r2sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r3sr0" class="row rgrey1">
+<div id="tab20r3sr0c0" class="cell"><span id="tab20r3sr0_span"><a href="javascript:Org('40380')">Aspergillus ochraceus</a>
+</span><a id="tab20r3sr0_a" href="javascript:hideRows('tab20r3',0);"><img src="./images/icon_minus_white.png" title="hide entries" alt=" hide"></a></div><div id="tab20r3sr0c1" class="cell"><span>-
+</span></div><div id="tab20r3sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=675045" target="_blank">675045</a>
+</span></div><div id="tab20r3sr0c3" class="cell"><span>-
+</span></div><div id="tab20r3sr0c4" class="cell"><span>-
+</span></div><div id="tab20r3sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div><div id="tab20r3sr1" class="row rgrey1">
+<div id="tab20r3sr1c0" class="cell notopborder"><span id="tab20r3sr1_span" class="hidden"><a href="javascript:Org('40380')">Aspergillus ochraceus</a>
+</span></div><div id="tab20r3sr1c1" class="cell"><span>AIU 031
+</span></div><div id="tab20r3sr1c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=675045" target="_blank">675045</a>, <a href="./literature.php?e=1.1.3.13&amp;r=688123" target="_blank">688123</a></span></div><div id="tab20r3sr1c3" class="cell"><span>-
+</span></div><div id="tab20r3sr1c4" class="cell"><span>-
+</span></div><div id="tab20r3sr1c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r4sr0" class="row rgrey2">
+<div id="tab20r4sr0c0" class="cell"><span id="tab20r4sr0_span"><a href="javascript:Org('-777')">Aspergillus ochraceus AIU 031</a>
+</span><a id="tab20r4sr0_a" href="javascript:hideRows('tab20r4',0);"><img src="./images/icon_minus_white.png" title="hide entries" alt=" hide"></a></div><div id="tab20r4sr0c1" class="cell"><span>-
+</span></div><div id="tab20r4sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=675045" target="_blank">675045</a>
+</span></div><div id="tab20r4sr0c3" class="cell"><span>-
+</span></div><div id="tab20r4sr0c4" class="cell"><span>-
+</span></div><div id="tab20r4sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div><div id="tab20r4sr1" class="row rgrey2">
+<div id="tab20r4sr1c0" class="cell notopborder"><span id="tab20r4sr1_span" class="hidden"><a href="javascript:Org('-777')">Aspergillus ochraceus AIU 031</a>
+</span></div><div id="tab20r4sr1c1" class="cell"><span>AIU 031
+</span></div><div id="tab20r4sr1c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=675045" target="_blank">675045</a>, <a href="./literature.php?e=1.1.3.13&amp;r=688123" target="_blank">688123</a></span></div><div id="tab20r4sr1c3" class="cell"><span>-
+</span></div><div id="tab20r4sr1c4" class="cell"><span>-
+</span></div><div id="tab20r4sr1c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r5sr0" class="row rgrey1">
+<div id="tab20r5sr0c0" class="cell"><span id="tab20r5sr0_span"><a href="javascript:Org('33178')">Aspergillus terreus</a>
+</span><a id="tab20r5sr0_a" href="javascript:hideRows('tab20r5',0);"><img src="./images/icon_minus_white.png" title="hide entries" alt=" hide"></a></div><div id="tab20r5sr0c1" class="cell"><span>-
+</span></div><div id="tab20r5sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=671539" target="_blank">671539</a>, <a href="./literature.php?e=1.1.3.13&amp;r=698659" target="_blank">698659</a>, <a href="./literature.php?e=1.1.3.13&amp;r=739968" target="_blank">739968</a></span></div><div id="tab20r5sr0c3" class="cell"><span>-
+</span></div><div id="tab20r5sr0c4" class="cell"><span>-
+</span></div><div id="tab20r5sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div><div id="tab20r5sr1" class="row rgrey1">
+<div id="tab20r5sr1c0" class="cell notopborder"><span id="tab20r5sr1_span" class="hidden"><a href="javascript:Org('33178')">Aspergillus terreus</a>
+</span></div><div id="tab20r5sr1c1" class="cell"><span>MTCC 6324
+</span></div><div id="tab20r5sr1c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=685404" target="_blank">685404</a>
+</span></div><div id="tab20r5sr1c3" class="cell"><span>-
+</span></div><div id="tab20r5sr1c4" class="cell"><span>-
+</span></div><div id="tab20r5sr1c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r6sr0" class="row rgrey2">
+<div id="tab20r6sr0c0" class="cell"><span><a href="javascript:Org('-828')">Aspergillus terreus MTCC 6324</a>
+</span></div><div id="tab20r6sr0c1" class="cell"><span>-
+</span></div><div id="tab20r6sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=671539" target="_blank">671539</a>, <a href="./literature.php?e=1.1.3.13&amp;r=698659" target="_blank">698659</a>, <a href="./literature.php?e=1.1.3.13&amp;r=739968" target="_blank">739968</a></span></div><div id="tab20r6sr0c3" class="cell"><span>-
+</span></div><div id="tab20r6sr0c4" class="cell"><span>-
+</span></div><div id="tab20r6sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r7sr0" class="row rgrey1">
+<div id="tab20r7sr0c0" class="cell"><span><a href="javascript:Org('5204')">Basidiomycota</a>
+</span></div><div id="tab20r7sr0c1" class="cell"><span>-
+</span></div><div id="tab20r7sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=484905" target="_blank">484905</a>, <a href="./literature.php?e=1.1.3.13&amp;r=484906" target="_blank">484906</a></span></div><div id="tab20r7sr0c3" class="cell"><span>-
+</span></div><div id="tab20r7sr0c4" class="cell"><span>-
+</span></div><div id="tab20r7sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r8sr0" class="row rgrey2">
+<div id="tab20r8sr0c0" class="cell"><span><a href="javascript:Org('-1280')">Basidiomycota B191039</a>
+</span></div><div id="tab20r8sr0c1" class="cell"><span>-
+</span></div><div id="tab20r8sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=484906" target="_blank">484906</a>
+</span></div><div id="tab20r8sr0c3" class="cell"><span>-
+</span></div><div id="tab20r8sr0c4" class="cell"><span>-
+</span></div><div id="tab20r8sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r9sr0" class="row rgrey1">
+<div id="tab20r9sr0c0" class="cell"><span><a href="javascript:Org('1853550')">Candida sp. (in: Saccharomycetales)</a>
+</span></div><div id="tab20r9sr0c1" class="cell"><span>-
+</span></div><div id="tab20r9sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=484907" target="_blank">484907</a>
+</span></div><div id="tab20r9sr0c3" class="cell"><span>-
+</span></div><div id="tab20r9sr0c4" class="cell"><span>-
+</span></div><div id="tab20r9sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r10sr0" class="row rgrey2">
+<div id="tab20r10sr0c0" class="cell"><span><a href="javascript:Org('1853550')">Candida sp. (in: Saccharomycetales)</a> 25-A
+</span></div><div id="tab20r10sr0c1" class="cell"><span>-
+</span></div><div id="tab20r10sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=484907" target="_blank">484907</a>
+</span></div><div id="tab20r10sr0c3" class="cell"><span>-
+</span></div><div id="tab20r10sr0c4" class="cell"><span>-
+</span></div><div id="tab20r10sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r11sr0" class="row rgrey1">
+<div id="tab20r11sr0c0" class="cell"><span><a href="javascript:Org('5482')">Candida tropicalis</a>
+</span></div><div id="tab20r11sr0c1" class="cell"><span>gene faot
+</span></div><div id="tab20r11sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=672339" target="_blank">672339</a>
+</span></div><div id="tab20r11sr0c3" class="cell"><span>-
+</span></div><div id="tab20r11sr0c4" class="cell"><span>-
+</span></div><div id="tab20r11sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r12sr0" class="row rgrey2">
+<div id="tab20r12sr0c0" class="cell"><span><a href="javascript:Org('31870')">Colletotrichum graminicola</a>
+</span></div><div id="tab20r12sr0c1" class="cell"><span>M1.001
+</span></div><div id="tab20r12sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=762556" target="_blank">762556</a>
+</span></div><div id="tab20r12sr0c3" class="cell"><span><a href="javascript:Sequence2('E3QHV8')">E3QHV8</a>
+</span></div><div id="tab20r12sr0c4" class="cell"><span>UniProt
+</span></div><div id="tab20r12sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r13sr0" class="row rgrey1">
+<div id="tab20r13sr0c0" class="cell"><span><a href="javascript:Org('34028')">Comamonas sp.</a>
+</span></div><div id="tab20r13sr0c1" class="cell"><span>-
+</span></div><div id="tab20r13sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=711535" target="_blank">711535</a>
+</span></div><div id="tab20r13sr0c3" class="cell"><span>-
+</span></div><div id="tab20r13sr0c4" class="cell"><span>-
+</span></div><div id="tab20r13sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r14sr0" class="row rgrey2">
+<div id="tab20r14sr0c0" class="cell"><span><a href="javascript:Org('-1712')">Comamonas sp. UVS</a>
+</span></div><div id="tab20r14sr0c1" class="cell"><span>-
+</span></div><div id="tab20r14sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=711535" target="_blank">711535</a>
+</span></div><div id="tab20r14sr0c3" class="cell"><span>-
+</span></div><div id="tab20r14sr0c4" class="cell"><span>-
+</span></div><div id="tab20r14sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r15sr0" class="row rgrey1">
+<div id="tab20r15sr0c0" class="cell"><span><a href="javascript:Org('6535')">Cornu aspersum</a>
+</span></div><div id="tab20r15sr0c1" class="cell"><span>-
+</span></div><div id="tab20r15sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=484921" target="_blank">484921</a>
+</span></div><div id="tab20r15sr0c3" class="cell"><span>-
+</span></div><div id="tab20r15sr0c4" class="cell"><span>-
+</span></div><div id="tab20r15sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r16sr0" class="row rgrey2">
+<div id="tab20r16sr0c0" class="cell"><span><a href="javascript:Org('5499')">Fulvia fulva</a>
+</span></div><div id="tab20r16sr0c1" class="cell"><span>gene AOX1
+</span></div><div id="tab20r16sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=673755" target="_blank">673755</a>
+</span></div><div id="tab20r16sr0c3" class="cell"><span>-
+</span></div><div id="tab20r16sr0c4" class="cell"><span>-
+</span></div><div id="tab20r16sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r17sr0" class="row rgrey1">
+<div id="tab20r17sr0c0" class="cell"><span><a href="javascript:Org('4751')">Fungi</a>
+</span></div><div id="tab20r17sr0c1" class="cell"><span>indigenous, filamentous fungus isolated from petroleum-contaminated soils,growth on decane or hexadecane, two isoforms
+</span></div><div id="tab20r17sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=654228" target="_blank">654228</a>
+</span></div><div id="tab20r17sr0c3" class="cell"><span>-
+</span></div><div id="tab20r17sr0c4" class="cell"><span>-
+</span></div><div id="tab20r17sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r18sr0" class="row rgrey2">
+<div id="tab20r18sr0c0" class="cell"><span><a href="javascript:Org('104355')">Gloeophyllum trabeum</a>
+</span></div><div id="tab20r18sr0c1" class="cell"><span>-
+</span></div><div id="tab20r18sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=684565" target="_blank">684565</a>
+</span></div><div id="tab20r18sr0c3" class="cell"><span><a href="javascript:Sequence2('A8DPS4')">A8DPS4</a>
+</span></div><div id="tab20r18sr0c4" class="cell"><span>SwissProt
+</span></div><div id="tab20r18sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r19sr0" class="row rgrey1">
+<div id="tab20r19sr0c0" class="cell"><span>Hansenula sp.
+</span></div><div id="tab20r19sr0c1" class="cell"><span>-
+</span></div><div id="tab20r19sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=686441" target="_blank">686441</a>
+</span></div><div id="tab20r19sr0c3" class="cell"><span>-
+</span></div><div id="tab20r19sr0c4" class="cell"><span>-
+</span></div><div id="tab20r19sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r20sr0" class="row rgrey2">
+<div id="tab20r20sr0c0" class="cell"><span id="tab20r20sr0_span"><a href="javascript:Org('4922')">Komagataella pastoris</a>
+</span><a id="tab20r20sr0_a" href="javascript:hideRows('tab20r20',0);"><img src="./images/icon_minus_white.png" title="hide entries" alt=" hide"></a></div><div id="tab20r20sr0c1" class="cell"><span>-
+</span></div><div id="tab20r20sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=484910" target="_blank">484910</a>, <a href="./literature.php?e=1.1.3.13&amp;r=484915" target="_blank">484915</a>, <a href="./literature.php?e=1.1.3.13&amp;r=672860" target="_blank">672860</a>, <a href="./literature.php?e=1.1.3.13&amp;r=686441" target="_blank">686441</a>, <a href="./literature.php?e=1.1.3.13&amp;r=686482" target="_blank">686482</a>, <a href="./literature.php?e=1.1.3.13&amp;r=687874" target="_blank">687874</a>, <a href="./literature.php?e=1.1.3.13&amp;r=690109" target="_blank">690109</a>, <a href="./literature.php?e=1.1.3.13&amp;r=724083" target="_blank">724083</a>, <a href="./literature.php?e=1.1.3.13&amp;r=724630" target="_blank">724630</a>, <a href="./literature.php?e=1.1.3.13&amp;r=724647" target="_blank">724647</a>, <a href="./literature.php?e=1.1.3.13&amp;r=739948" target="_blank">739948</a>, <a href="./literature.php?e=1.1.3.13&amp;r=740190" target="_blank">740190</a>, <a href="./literature.php?e=1.1.3.13&amp;r=740193" target="_blank">740193</a>, <a href="./literature.php?e=1.1.3.13&amp;r=740785" target="_blank">740785</a></span></div><div id="tab20r20sr0c3" class="cell"><span>-
+</span></div><div id="tab20r20sr0c4" class="cell"><span>-
+</span></div><div id="tab20r20sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div><div id="tab20r20sr1" class="row rgrey2">
+<div id="tab20r20sr1c0" class="cell notopborder"><span id="tab20r20sr1_span" class="hidden"><a href="javascript:Org('4922')">Komagataella pastoris</a>
+</span></div><div id="tab20r20sr1c1" class="cell"><span>-
+</span></div><div id="tab20r20sr1c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=741253" target="_blank">741253</a>, <a href="./literature.php?e=1.1.3.13&amp;r=741256" target="_blank">741256</a></span></div><div id="tab20r20sr1c3" class="cell"><span><a href="javascript:Sequence2('P04842')">P04842</a>
+</span></div><div id="tab20r20sr1c4" class="cell"><span>UniProt
+</span></div><div id="tab20r20sr1c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div><div id="tab20r20sr2" class="row rgrey2">
+<div id="tab20r20sr2c0" class="cell notopborder"><span id="tab20r20sr2_span" class="hidden"><a href="javascript:Org('4922')">Komagataella pastoris</a>
+</span></div><div id="tab20r20sr2c1" class="cell"><span>-
+</span></div><div id="tab20r20sr2c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=762836" target="_blank">762836</a>
+</span></div><div id="tab20r20sr2c3" class="cell"><span>-
+</span></div><div id="tab20r20sr2c4" class="cell"><span>-
+</span></div><div id="tab20r20sr2c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div><div id="tab20r20sr3" class="row rgrey2">
+<div id="tab20r20sr3c0" class="cell notopborder"><span id="tab20r20sr3_span" class="hidden"><a href="javascript:Org('4922')">Komagataella pastoris</a>
+</span></div><div id="tab20r20sr3c1" class="cell"><span>fragment
+</span></div><div id="tab20r20sr3c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=690209" target="_blank">690209</a>
+</span></div><div id="tab20r20sr3c3" class="cell"><span><a href="javascript:Sequence2('F2QY27')">F2QY27</a>, <a href="javascript:Sequence2('F2R038')">F2R038</a></span></div><div id="tab20r20sr3c4" class="cell"><span>SwissProt
+</span></div><div id="tab20r20sr3c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div><div id="tab20r20sr4" class="row rgrey2">
+<div id="tab20r20sr4c0" class="cell notopborder"><span id="tab20r20sr4_span" class="hidden"><a href="javascript:Org('4922')">Komagataella pastoris</a>
+</span></div><div id="tab20r20sr4c1" class="cell"><span>gene AOX1
+</span></div><div id="tab20r20sr4c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=700112" target="_blank">700112</a>
+</span></div><div id="tab20r20sr4c3" class="cell"><span>-
+</span></div><div id="tab20r20sr4c4" class="cell"><span>-
+</span></div><div id="tab20r20sr4c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div><div id="tab20r20sr5" class="row rgrey2">
+<div id="tab20r20sr5c0" class="cell notopborder"><span id="tab20r20sr5_span" class="hidden"><a href="javascript:Org('4922')">Komagataella pastoris</a>
+</span></div><div id="tab20r20sr5c1" class="cell"><span>genes AOX1 and AOX2
+</span></div><div id="tab20r20sr5c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=673755" target="_blank">673755</a>
+</span></div><div id="tab20r20sr5c3" class="cell"><span>-
+</span></div><div id="tab20r20sr5c4" class="cell"><span>-
+</span></div><div id="tab20r20sr5c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div><div id="tab20r20sr6" class="row rgrey2">
+<div id="tab20r20sr6c0" class="cell notopborder"><span id="tab20r20sr6_span" class="hidden"><a href="javascript:Org('4922')">Komagataella pastoris</a>
+</span></div><div id="tab20r20sr6c1" class="cell"><span>Mut+ strain expressing a recombinant avidin
+</span></div><div id="tab20r20sr6c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=673395" target="_blank">673395</a>
+</span></div><div id="tab20r20sr6c3" class="cell"><span>-
+</span></div><div id="tab20r20sr6c4" class="cell"><span>-
+</span></div><div id="tab20r20sr6c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div><div id="tab20r20sr7" class="row rgrey2">
+<div id="tab20r20sr7c0" class="cell notopborder"><span id="tab20r20sr7_span" class="hidden"><a href="javascript:Org('4922')">Komagataella pastoris</a>
+</span></div><div id="tab20r20sr7c1" class="cell"><span>two isoforms, immobilazaztion of both on macroporous cellulose carrier
+</span></div><div id="tab20r20sr7c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=656564" target="_blank">656564</a>
+</span></div><div id="tab20r20sr7c3" class="cell"><span>-
+</span></div><div id="tab20r20sr7c4" class="cell"><span>-
+</span></div><div id="tab20r20sr7c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r21sr0" class="row rgrey1">
+<div id="tab20r21sr0c0" class="cell"><span><a href="javascript:Org('644223')">Komagataella pastoris GS115</a>
+</span></div><div id="tab20r21sr0c1" class="cell"><span>-
+</span></div><div id="tab20r21sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=724630" target="_blank">724630</a>
+</span></div><div id="tab20r21sr0c3" class="cell"><span>-
+</span></div><div id="tab20r21sr0c4" class="cell"><span>-
+</span></div><div id="tab20r21sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r22sr0" class="row rgrey2">
+<div id="tab20r22sr0c0" class="cell"><span><a href="javascript:Org('-3679')">Komagataella pastoris IFP 206</a>
+</span></div><div id="tab20r22sr0c1" class="cell"><span>-
+</span></div><div id="tab20r22sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=484910" target="_blank">484910</a>
+</span></div><div id="tab20r22sr0c3" class="cell"><span>-
+</span></div><div id="tab20r22sr0c4" class="cell"><span>-
+</span></div><div id="tab20r22sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r23sr0" class="row rgrey1">
+<div id="tab20r23sr0c0" class="cell"><span><a href="javascript:Org('-3677')">Komagataella pastoris X33</a>
+</span></div><div id="tab20r23sr0c1" class="cell"><span>-
+</span></div><div id="tab20r23sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=741253" target="_blank">741253</a>
+</span></div><div id="tab20r23sr0c3" class="cell"><span><a href="javascript:Sequence2('P04842')">P04842</a>
+</span></div><div id="tab20r23sr0c4" class="cell"><span>UniProt
+</span></div><div id="tab20r23sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r24sr0" class="row rgrey2">
+<div id="tab20r24sr0c0" class="cell"><span id="tab20r24sr0_span"><a href="javascript:Org('460519')">Komagataella phaffii</a>
+</span><a id="tab20r24sr0_a" href="javascript:hideRows('tab20r24',0);"><img src="./images/icon_minus_white.png" title="hide entries" alt=" hide"></a></div><div id="tab20r24sr0c1" class="cell"><span>-
+</span></div><div id="tab20r24sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=762846" target="_blank">762846</a>
+</span></div><div id="tab20r24sr0c3" class="cell"><span><a href="javascript:Sequence2('P04842')">P04842</a>
+</span></div><div id="tab20r24sr0c4" class="cell"><span>UniProt
+</span></div><div id="tab20r24sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div><div id="tab20r24sr1" class="row rgrey2">
+<div id="tab20r24sr1c0" class="cell notopborder"><span id="tab20r24sr1_span" class="hidden"><a href="javascript:Org('460519')">Komagataella phaffii</a>
+</span></div><div id="tab20r24sr1c1" class="cell"><span>-
+</span></div><div id="tab20r24sr1c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=762850" target="_blank">762850</a>
+</span></div><div id="tab20r24sr1c3" class="cell"><span><a href="javascript:Sequence2('F2QY27')">F2QY27</a>
+</span></div><div id="tab20r24sr1c4" class="cell"><span>UniProt
+</span></div><div id="tab20r24sr1c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div><div id="tab20r24sr2" class="row rgrey2">
+<div id="tab20r24sr2c0" class="cell notopborder"><span id="tab20r24sr2_span" class="hidden"><a href="javascript:Org('460519')">Komagataella phaffii</a>
+</span></div><div id="tab20r24sr2c1" class="cell"><span>-
+</span></div><div id="tab20r24sr2c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=762920" target="_blank">762920</a>, <a href="./literature.php?e=1.1.3.13&amp;r=762989" target="_blank">762989</a>, <a href="./literature.php?e=1.1.3.13&amp;r=763331" target="_blank">763331</a></span></div><div id="tab20r24sr2c3" class="cell"><span>-
+</span></div><div id="tab20r24sr2c4" class="cell"><span>-
+</span></div><div id="tab20r24sr2c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r25sr0" class="row rgrey1">
+<div id="tab20r25sr0c0" class="cell"><span><a href="javascript:Org('-12594')">Komagataella phaffii ATCC 76273</a>
+</span></div><div id="tab20r25sr0c1" class="cell"><span>-
+</span></div><div id="tab20r25sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=762850" target="_blank">762850</a>
+</span></div><div id="tab20r25sr0c3" class="cell"><span><a href="javascript:Sequence2('F2QY27')">F2QY27</a>
+</span></div><div id="tab20r25sr0c4" class="cell"><span>UniProt
+</span></div><div id="tab20r25sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r26sr0" class="row rgrey2">
+<div id="tab20r26sr0c0" class="cell"><span><a href="javascript:Org('644223')">Komagataella phaffii GS115</a>
+</span></div><div id="tab20r26sr0c1" class="cell"><span>-
+</span></div><div id="tab20r26sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=762846" target="_blank">762846</a>
+</span></div><div id="tab20r26sr0c3" class="cell"><span><a href="javascript:Sequence2('P04842')">P04842</a>
+</span></div><div id="tab20r26sr0c4" class="cell"><span>UniProt
+</span></div><div id="tab20r26sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r27sr0" class="row rgrey1">
+<div id="tab20r27sr0c0" class="cell"><span><a href="javascript:Org('317047')">Kuraishia capsulata</a>
+</span></div><div id="tab20r27sr0c1" class="cell"><span>fragment
+</span></div><div id="tab20r27sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=690209" target="_blank">690209</a>
+</span></div><div id="tab20r27sr0c3" class="cell"><span><a href="javascript:Sequence2('A5LGE7')">A5LGE7</a>
+</span></div><div id="tab20r27sr0c4" class="cell"><span>SwissProt
+</span></div><div id="tab20r27sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r28sr0" class="row rgrey2">
+<div id="tab20r28sr0c0" class="cell"><span><a href="javascript:Org('1580')">Levilactobacillus brevis</a>
+</span></div><div id="tab20r28sr0c1" class="cell"><span>-
+</span></div><div id="tab20r28sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=762911" target="_blank">762911</a>
+</span></div><div id="tab20r28sr0c3" class="cell"><span>-
+</span></div><div id="tab20r28sr0c4" class="cell"><span>-
+</span></div><div id="tab20r28sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r29sr0" class="row rgrey1">
+<div id="tab20r29sr0c0" class="cell"><span><a href="javascript:Org('2315439')">Lissachatina fulica</a>
+</span></div><div id="tab20r29sr0c1" class="cell"><span>-
+</span></div><div id="tab20r29sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=484921" target="_blank">484921</a>
+</span></div><div id="tab20r29sr0c3" class="cell"><span>-
+</span></div><div id="tab20r29sr0c4" class="cell"><span>-
+</span></div><div id="tab20r29sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r30sr0" class="row rgrey2">
+<div id="tab20r30sr0c0" class="cell"><span><a href="javascript:Org('42190')">Ochrobactrum sp.</a>
+</span></div><div id="tab20r30sr0c1" class="cell"><span>-
+</span></div><div id="tab20r30sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=740872" target="_blank">740872</a>
+</span></div><div id="tab20r30sr0c3" class="cell"><span>-
+</span></div><div id="tab20r30sr0c4" class="cell"><span>-
+</span></div><div id="tab20r30sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r31sr0" class="row rgrey1">
+<div id="tab20r31sr0c0" class="cell"><span><a href="javascript:Org('-9168')">Ochrobactrum sp. AIU 033</a>
+</span></div><div id="tab20r31sr0c1" class="cell"><span>-
+</span></div><div id="tab20r31sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=763283" target="_blank">763283</a>
+</span></div><div id="tab20r31sr0c3" class="cell"><span>-
+</span></div><div id="tab20r31sr0c4" class="cell"><span>-
+</span></div><div id="tab20r31sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r32" class="row rgrey2">
+<div id="tab20r32c0" class="cell"><a href="javascript:Org('870730')">Ogataea angusta</a>
+</div><div id="tab20r32c1" class="cell nowrap"><a class="rowpreview" href="javascript:showRows('tab20r32',0);"><img src="./images/icon_plus_white.png" alt="show "> 5 entries</a></div>
+<div id="tab20r32c2" class="cell noleftborder"></div>
+<div id="tab20r32c3" class="cell noleftborder"></div>
+<div id="tab20r32c4" class="cell noleftborder"></div>
+<div id="tab20r32c5" class="cell noleftborder"></div>
+</div>
+<div id="tab20r33sr0" class="row rgrey1">
+<div id="tab20r33sr0c0" class="cell"><span><a href="javascript:Org('871575')">Ogataea angusta DL-1</a>
+</span></div><div id="tab20r33sr0c1" class="cell"><span>-
+</span></div><div id="tab20r33sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=484920" target="_blank">484920</a>
+</span></div><div id="tab20r33sr0c3" class="cell"><span>-
+</span></div><div id="tab20r33sr0c4" class="cell"><span>-
+</span></div><div id="tab20r33sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r34sr0" class="row rgrey2">
+<div id="tab20r34sr0c0" class="cell"><span><a href="javascript:Org('-8067')">Ogataea angusta NCYC 495</a>
+</span></div><div id="tab20r34sr0c1" class="cell"><span>-
+</span></div><div id="tab20r34sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=724565" target="_blank">724565</a>
+</span></div><div id="tab20r34sr0c3" class="cell"><span>-
+</span></div><div id="tab20r34sr0c4" class="cell"><span>-
+</span></div><div id="tab20r34sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r35sr0" class="row rgrey1">
+<div id="tab20r35sr0c0" class="cell"><span><a href="javascript:Org('36023')">Ogataea glucozyma</a>
+</span></div><div id="tab20r35sr0c1" class="cell"><span>fragment
+</span></div><div id="tab20r35sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=690209" target="_blank">690209</a>
+</span></div><div id="tab20r35sr0c3" class="cell"><span><a href="javascript:Sequence2('A5LGE9')">A5LGE9</a>
+</span></div><div id="tab20r35sr0c4" class="cell"><span>SwissProt
+</span></div><div id="tab20r35sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r36sr0" class="row rgrey2">
+<div id="tab20r36sr0c0" class="cell"><span><a href="javascript:Org('36024')">Ogataea henricii</a>
+</span></div><div id="tab20r36sr0c1" class="cell"><span>fragment
+</span></div><div id="tab20r36sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=690209" target="_blank">690209</a>
+</span></div><div id="tab20r36sr0c3" class="cell"><span><a href="javascript:Sequence2('A5LGF0')">A5LGF0</a>
+</span></div><div id="tab20r36sr0c4" class="cell"><span>SwissProt
+</span></div><div id="tab20r36sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r37sr0" class="row rgrey1">
+<div id="tab20r37sr0c0" class="cell"><span id="tab20r37sr0_span"><a href="javascript:Org('1156966')">Ogataea methanolica</a>
+</span><a id="tab20r37sr0_a" href="javascript:hideRows('tab20r37',0);"><img src="./images/icon_minus_white.png" title="hide entries" alt=" hide"></a></div><div id="tab20r37sr0c1" class="cell"><span>-
+</span></div><div id="tab20r37sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=690209" target="_blank">690209</a>
+</span></div><div id="tab20r37sr0c3" class="cell"><span><a href="javascript:Sequence2('Q9UVU1')">Q9UVU1</a>, <a href="javascript:Sequence2('Q9UVU2')">Q9UVU2</a></span></div><div id="tab20r37sr0c4" class="cell"><span>SwissProt
+</span></div><div id="tab20r37sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div><div id="tab20r37sr1" class="row rgrey1">
+<div id="tab20r37sr1c0" class="cell notopborder"><span id="tab20r37sr1_span" class="hidden"><a href="javascript:Org('1156966')">Ogataea methanolica</a>
+</span></div><div id="tab20r37sr1c1" class="cell"><span>9 isozymes, strains 616 and MH4-1032
+</span></div><div id="tab20r37sr1c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=695721" target="_blank">695721</a>
+</span></div><div id="tab20r37sr1c3" class="cell"><span>-
+</span></div><div id="tab20r37sr1c4" class="cell"><span>-
+</span></div><div id="tab20r37sr1c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div><div id="tab20r37sr2" class="row rgrey1">
+<div id="tab20r37sr2c0" class="cell notopborder"><span id="tab20r37sr2_span" class="hidden"><a href="javascript:Org('1156966')">Ogataea methanolica</a>
+</span></div><div id="tab20r37sr2c1" class="cell"><span>genes AUG1 or MOD1 and AUG2 or MOD2
+</span></div><div id="tab20r37sr2c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=673755" target="_blank">673755</a>
+</span></div><div id="tab20r37sr2c3" class="cell"><span>-
+</span></div><div id="tab20r37sr2c4" class="cell"><span>-
+</span></div><div id="tab20r37sr2c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div><div id="tab20r37sr3" class="row rgrey1">
+<div id="tab20r37sr3c0" class="cell notopborder"><span id="tab20r37sr3_span" class="hidden"><a href="javascript:Org('1156966')">Ogataea methanolica</a>
+</span></div><div id="tab20r37sr3c1" class="cell"><span>isoforms Mod1, Mod2, Mod2 is more adapted to methylotropic growth with high methanol concentration up to 3% than Mod1
+</span></div><div id="tab20r37sr3c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=657411" target="_blank">657411</a>
+</span></div><div id="tab20r37sr3c3" class="cell"><span>-
+</span></div><div id="tab20r37sr3c4" class="cell"><span>-
+</span></div><div id="tab20r37sr3c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r38sr0" class="row rgrey2">
+<div id="tab20r38sr0c0" class="cell"><span><a href="javascript:Org('53649')">Ogataea methylovora</a>
+</span></div><div id="tab20r38sr0c1" class="cell"><span>fragment
+</span></div><div id="tab20r38sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=690209" target="_blank">690209</a>
+</span></div><div id="tab20r38sr0c3" class="cell"><span><a href="javascript:Sequence2('A5LGE3')">A5LGE3</a>
+</span></div><div id="tab20r38sr0c4" class="cell"><span>SwissProt
+</span></div><div id="tab20r38sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r39sr0" class="row rgrey1">
+<div id="tab20r39sr0c0" class="cell"><span id="tab20r39sr0_span"><a href="javascript:Org('36026')">Ogataea minuta</a>
+</span><a id="tab20r39sr0_a" href="javascript:hideRows('tab20r39',0);"><img src="./images/icon_minus_white.png" title="hide entries" alt=" hide"></a></div><div id="tab20r39sr0c1" class="cell"><span>-
+</span></div><div id="tab20r39sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=690209" target="_blank">690209</a>
+</span></div><div id="tab20r39sr0c3" class="cell"><span><a href="javascript:Sequence2('A5LGE4')">A5LGE4</a>
+</span></div><div id="tab20r39sr0c4" class="cell"><span>SwissProt
+</span></div><div id="tab20r39sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div><div id="tab20r39sr1" class="row rgrey1">
+<div id="tab20r39sr1c0" class="cell notopborder"><span id="tab20r39sr1_span" class="hidden"><a href="javascript:Org('36026')">Ogataea minuta</a>
+</span></div><div id="tab20r39sr1c1" class="cell"><span>fragment; var. minuta
+</span></div><div id="tab20r39sr1c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=690209" target="_blank">690209</a>
+</span></div><div id="tab20r39sr1c3" class="cell"><span><a href="javascript:Sequence2('A5LGF1')">A5LGF1</a>
+</span></div><div id="tab20r39sr1c4" class="cell"><span>SwissProt
+</span></div><div id="tab20r39sr1c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r40sr0" class="row rgrey2">
+<div id="tab20r40sr0c0" class="cell"><span><a href="javascript:Org('50265')">Ogataea naganishii</a>
+</span></div><div id="tab20r40sr0c1" class="cell"><span>fragment
+</span></div><div id="tab20r40sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=690209" target="_blank">690209</a>
+</span></div><div id="tab20r40sr0c3" class="cell"><span><a href="javascript:Sequence2('A5LGF2')">A5LGF2</a>
+</span></div><div id="tab20r40sr0c4" class="cell"><span>SwissProt
+</span></div><div id="tab20r40sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r41sr0" class="row rgrey1">
+<div id="tab20r41sr0c0" class="cell"><span><a href="javascript:Org('1378263')">Ogataea philodendri</a>
+</span></div><div id="tab20r41sr0c1" class="cell"><span>fragment
+</span></div><div id="tab20r41sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=690209" target="_blank">690209</a>
+</span></div><div id="tab20r41sr0c3" class="cell"><span><a href="javascript:Sequence2('A5LGF3')">A5LGF3</a>
+</span></div><div id="tab20r41sr0c4" class="cell"><span>SwissProt
+</span></div><div id="tab20r41sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r42sr0" class="row rgrey2">
+<div id="tab20r42sr0c0" class="cell"><span><a href="javascript:Org('51923')">Ogataea pignaliae</a>
+</span></div><div id="tab20r42sr0c1" class="cell"><span>fragment
+</span></div><div id="tab20r42sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=690209" target="_blank">690209</a>
+</span></div><div id="tab20r42sr0c3" class="cell"><span><a href="javascript:Sequence2('A5LGE1')">A5LGE1</a>, <a href="javascript:Sequence2('A5LGE2')">A5LGE2</a></span></div><div id="tab20r42sr0c4" class="cell"><span>SwissProt
+</span></div><div id="tab20r42sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r43sr0" class="row rgrey1">
+<div id="tab20r43sr0c0" class="cell"><span><a href="javascript:Org('4923')">Ogataea pini</a>
+</span></div><div id="tab20r43sr0c1" class="cell"><span>gene AOX1
+</span></div><div id="tab20r43sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=673755" target="_blank">673755</a>
+</span></div><div id="tab20r43sr0c3" class="cell"><span>-
+</span></div><div id="tab20r43sr0c4" class="cell"><span>-
+</span></div><div id="tab20r43sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r44sr0" class="row rgrey2">
+<div id="tab20r44sr0c0" class="cell"><span><a href="javascript:Org('246385')">Ogataea siamensis</a>
+</span></div><div id="tab20r44sr0c1" class="cell"><span>isolated in Thailand
+</span></div><div id="tab20r44sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=675722" target="_blank">675722</a>
+</span></div><div id="tab20r44sr0c3" class="cell"><span>-
+</span></div><div id="tab20r44sr0c4" class="cell"><span>-
+</span></div><div id="tab20r44sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r45sr0" class="row rgrey1">
+<div id="tab20r45sr0c0" class="cell"><span><a href="javascript:Org('310468')">Ogataea thermomethanolica (nom. inval.)</a>
+</span></div><div id="tab20r45sr0c1" class="cell"><span>-
+</span></div><div id="tab20r45sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=763282" target="_blank">763282</a>, <a href="./literature.php?e=1.1.3.13&amp;r=763667" target="_blank">763667</a></span></div><div id="tab20r45sr0c3" class="cell"><span><a href="javascript:Sequence2('A0A067YIW8')">A0A067YIW8</a>
+</span></div><div id="tab20r45sr0c4" class="cell"><span>UniProt
+</span></div><div id="tab20r45sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r46sr0" class="row rgrey2">
+<div id="tab20r46sr0c0" class="cell"><span><a href="javascript:Org('50267')">Ogataea trehalophila</a>
+</span></div><div id="tab20r46sr0c1" class="cell"><span>fragment
+</span></div><div id="tab20r46sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=690209" target="_blank">690209</a>
+</span></div><div id="tab20r46sr0c3" class="cell"><span><a href="javascript:Sequence2('A5LGF4')">A5LGF4</a>
+</span></div><div id="tab20r46sr0c4" class="cell"><span>SwissProt
+</span></div><div id="tab20r46sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r47sr0" class="row rgrey1">
+<div id="tab20r47sr0c0" class="cell"><span><a href="javascript:Org('1249076')">Ogataea wickerhamii</a>
+</span></div><div id="tab20r47sr0c1" class="cell"><span>fragment
+</span></div><div id="tab20r47sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=690209" target="_blank">690209</a>
+</span></div><div id="tab20r47sr0c3" class="cell"><span><a href="javascript:Sequence2('A5LGE8')">A5LGE8</a>
+</span></div><div id="tab20r47sr0c4" class="cell"><span>SwissProt
+</span></div><div id="tab20r47sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r48sr0" class="row rgrey2">
+<div id="tab20r48sr0c0" class="cell"><span><a href="javascript:Org('264951')">Paecilomyces variotii</a>
+</span></div><div id="tab20r48sr0c1" class="cell"><span>isolated as a formaldehyde-resistant fungus from wastewater containing formaldehyde
+</span></div><div id="tab20r48sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=684630" target="_blank">684630</a>
+</span></div><div id="tab20r48sr0c3" class="cell"><span>-
+</span></div><div id="tab20r48sr0c4" class="cell"><span>-
+</span></div><div id="tab20r48sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r49sr0" class="row rgrey1">
+<div id="tab20r49sr0c0" class="cell"><span><a href="javascript:Org('264951')">Paecilomyces variotii</a> RI017
+</span></div><div id="tab20r49sr0c1" class="cell"><span>isolated as a formaldehyde-resistant fungus from wastewater containing formaldehyde
+</span></div><div id="tab20r49sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=684630" target="_blank">684630</a>
+</span></div><div id="tab20r49sr0c3" class="cell"><span>-
+</span></div><div id="tab20r49sr0c4" class="cell"><span>-
+</span></div><div id="tab20r49sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r50sr0" class="row rgrey2">
+<div id="tab20r50sr0c0" class="cell"><span><a href="javascript:Org('5076')">Penicillium chrysogenum</a>
+</span></div><div id="tab20r50sr0c1" class="cell"><span>gene AOX
+</span></div><div id="tab20r50sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=673755" target="_blank">673755</a>
+</span></div><div id="tab20r50sr0c3" class="cell"><span>-
+</span></div><div id="tab20r50sr0c4" class="cell"><span>-
+</span></div><div id="tab20r50sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r51sr0" class="row rgrey1">
+<div id="tab20r51sr0c0" class="cell"><span><a href="javascript:Org('69782')">Penicillium purpurescens</a>
+</span></div><div id="tab20r51sr0c1" class="cell"><span>-
+</span></div><div id="tab20r51sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=699050" target="_blank">699050</a>
+</span></div><div id="tab20r51sr0c3" class="cell"><span>-
+</span></div><div id="tab20r51sr0c4" class="cell"><span>-
+</span></div><div id="tab20r51sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r52sr0" class="row rgrey2">
+<div id="tab20r52sr0c0" class="cell"><span><a href="javascript:Org('69782')">Penicillium purpurescens</a> AIU 063
+</span></div><div id="tab20r52sr0c1" class="cell"><span>-
+</span></div><div id="tab20r52sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=699050" target="_blank">699050</a>
+</span></div><div id="tab20r52sr0c3" class="cell"><span>-
+</span></div><div id="tab20r52sr0c4" class="cell"><span>-
+</span></div><div id="tab20r52sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r53sr0" class="row rgrey1">
+<div id="tab20r53sr0c0" class="cell"><span id="tab20r53sr0_span"><a href="javascript:Org('2822231')">Phanerodontia chrysosporium</a>
+</span><a id="tab20r53sr0_a" href="javascript:hideRows('tab20r53',0);"><img src="./images/icon_minus_white.png" title="hide entries" alt=" hide"></a></div><div id="tab20r53sr0c1" class="cell"><span>-
+</span></div><div id="tab20r53sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=484918" target="_blank">484918</a>, <a href="./literature.php?e=1.1.3.13&amp;r=484919" target="_blank">484919</a>, <a href="./literature.php?e=1.1.3.13&amp;r=738128" target="_blank">738128</a></span></div><div id="tab20r53sr0c3" class="cell"><span>-
+</span></div><div id="tab20r53sr0c4" class="cell"><span>-
+</span></div><div id="tab20r53sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div><div id="tab20r53sr1" class="row rgrey1">
+<div id="tab20r53sr1c0" class="cell notopborder"><span id="tab20r53sr1_span" class="hidden"><a href="javascript:Org('2822231')">Phanerodontia chrysosporium</a>
+</span></div><div id="tab20r53sr1c1" class="cell"><span>-
+</span></div><div id="tab20r53sr1c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=738128" target="_blank">738128</a>, <a href="./literature.php?e=1.1.3.13&amp;r=762603" target="_blank">762603</a>, <a href="./literature.php?e=1.1.3.13&amp;r=762679" target="_blank">762679</a>, <a href="./literature.php?e=1.1.3.13&amp;r=762732" target="_blank">762732</a></span></div><div id="tab20r53sr1c3" class="cell"><span><a href="javascript:Sequence2('T2M2J4')">T2M2J4</a>
+</span></div><div id="tab20r53sr1c4" class="cell"><span>UniProt
+</span></div><div id="tab20r53sr1c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r54sr0" class="row rgrey2">
+<div id="tab20r54sr0c0" class="cell"><span><a href="javascript:Org('2822231')">Phanerodontia chrysosporium</a> DSMZ 1547
+</span></div><div id="tab20r54sr0c1" class="cell"><span>-
+</span></div><div id="tab20r54sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=738128" target="_blank">738128</a>
+</span></div><div id="tab20r54sr0c3" class="cell"><span>-
+</span></div><div id="tab20r54sr0c4" class="cell"><span>-
+</span></div><div id="tab20r54sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r55sr0" class="row rgrey1">
+<div id="tab20r55sr0c0" class="cell"><span><a href="javascript:Org('2822231')">Phanerodontia chrysosporium</a> K-3
+</span></div><div id="tab20r55sr0c1" class="cell"><span>-
+</span></div><div id="tab20r55sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=484918" target="_blank">484918</a>, <a href="./literature.php?e=1.1.3.13&amp;r=484919" target="_blank">484919</a></span></div><div id="tab20r55sr0c3" class="cell"><span>-
+</span></div><div id="tab20r55sr0c4" class="cell"><span>-
+</span></div><div id="tab20r55sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r56sr0" class="row rgrey2">
+<div id="tab20r56sr0c0" class="cell"><span><a href="javascript:Org('82310')">Phlebiopsis gigantea</a>
+</span></div><div id="tab20r56sr0c1" class="cell"><span>-
+</span></div><div id="tab20r56sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=484922" target="_blank">484922</a>
+</span></div><div id="tab20r56sr0c3" class="cell"><span>-
+</span></div><div id="tab20r56sr0c4" class="cell"><span>-
+</span></div><div id="tab20r56sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r57sr0" class="row rgrey1">
+<div id="tab20r57sr0c0" class="cell"><span>Pichia putida
+</span></div><div id="tab20r57sr0c1" class="cell"><span>-
+</span></div><div id="tab20r57sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=711177" target="_blank">711177</a>
+</span></div><div id="tab20r57sr0c3" class="cell"><span>-
+</span></div><div id="tab20r57sr0c4" class="cell"><span>-
+</span></div><div id="tab20r57sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r58sr0" class="row rgrey2">
+<div id="tab20r58sr0c0" class="cell"><span id="tab20r58sr0_span"><a href="javascript:Org('4925')">Pichia sp.</a>
+</span><a id="tab20r58sr0_a" href="javascript:hideRows('tab20r58',0);"><img src="./images/icon_minus_white.png" title="hide entries" alt=" hide"></a></div><div id="tab20r58sr0c1" class="cell"><span>-
+</span></div><div id="tab20r58sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=484911" target="_blank">484911</a>
+</span></div><div id="tab20r58sr0c3" class="cell"><span>-
+</span></div><div id="tab20r58sr0c4" class="cell"><span>-
+</span></div><div id="tab20r58sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div><div id="tab20r58sr1" class="row rgrey2">
+<div id="tab20r58sr1c0" class="cell notopborder"><span id="tab20r58sr1_span" class="hidden"><a href="javascript:Org('4925')">Pichia sp.</a>
+</span></div><div id="tab20r58sr1c1" class="cell"><span>-
+</span></div><div id="tab20r58sr1c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=690209" target="_blank">690209</a>
+</span></div><div id="tab20r58sr1c3" class="cell"><span><a href="javascript:Sequence2('Q5S059')">Q5S059</a>, <a href="javascript:Sequence2('Q5S060')">Q5S060</a></span></div><div id="tab20r58sr1c4" class="cell"><span>SwissProt
+</span></div><div id="tab20r58sr1c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r59sr0" class="row rgrey1">
+<div id="tab20r59sr0c0" class="cell"><span>Polyporus obtusus
+</span></div><div id="tab20r59sr0c1" class="cell"><span>-
+</span></div><div id="tab20r59sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=484906" target="_blank">484906</a>
+</span></div><div id="tab20r59sr0c3" class="cell"><span>-
+</span></div><div id="tab20r59sr0c4" class="cell"><span>-
+</span></div><div id="tab20r59sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r60sr0" class="row rgrey2">
+<div id="tab20r60sr0c0" class="cell"><span>Poria contigua
+</span></div><div id="tab20r60sr0c1" class="cell"><span>-
+</span></div><div id="tab20r60sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=484908" target="_blank">484908</a>
+</span></div><div id="tab20r60sr0c3" class="cell"><span>-
+</span></div><div id="tab20r60sr0c4" class="cell"><span>-
+</span></div><div id="tab20r60sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r61sr0" class="row rgrey1">
+<div id="tab20r61sr0c0" class="cell"><span><a href="javascript:Org('1156840')">Radulodon casearius</a>
+</span></div><div id="tab20r61sr0c1" class="cell"><span>-
+</span></div><div id="tab20r61sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=484906" target="_blank">484906</a>
+</span></div><div id="tab20r61sr0c3" class="cell"><span>-
+</span></div><div id="tab20r61sr0c4" class="cell"><span>-
+</span></div><div id="tab20r61sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r62sr0" class="row rgrey2">
+<div id="tab20r62sr0c0" class="cell"><span><a href="javascript:Org('75736')">Starmerella bombicola</a>
+</span></div><div id="tab20r62sr0c1" class="cell"><span>-
+</span></div><div id="tab20r62sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=763045" target="_blank">763045</a>
+</span></div><div id="tab20r62sr0c3" class="cell"><span><a href="javascript:Sequence2('A0A024FB95')">A0A024FB95</a>
+</span></div><div id="tab20r62sr0c4" class="cell"><span>UniProt
+</span></div><div id="tab20r62sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r63sr0" class="row rgrey1">
+<div id="tab20r63sr0c0" class="cell"><span><a href="javascript:Org('29323')">Thermoanaerobacter brockii</a>
+</span></div><div id="tab20r63sr0c1" class="cell"><span>-
+</span></div><div id="tab20r63sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=762911" target="_blank">762911</a>
+</span></div><div id="tab20r63sr0c3" class="cell"><span>-
+</span></div><div id="tab20r63sr0c4" class="cell"><span>-
+</span></div><div id="tab20r63sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r64sr0" class="row rgrey2">
+<div id="tab20r64sr0c0" class="cell"><span><a href="javascript:Org('5087')">Thermoascus aurantiacus</a>
+</span></div><div id="tab20r64sr0c1" class="cell"><span>thermophilic fungus
+</span></div><div id="tab20r64sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=674961" target="_blank">674961</a>
+</span></div><div id="tab20r64sr0c3" class="cell"><span>-
+</span></div><div id="tab20r64sr0c4" class="cell"><span>-
+</span></div><div id="tab20r64sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r65sr0" class="row rgrey1">
+<div id="tab20r65sr0c0" class="cell"><span><a href="javascript:Org('-5144')">Thermoascus aurantiacus NBRC 31693</a>
+</span></div><div id="tab20r65sr0c1" class="cell"><span>thermophilic fungus
+</span></div><div id="tab20r65sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=674961" target="_blank">674961</a>
+</span></div><div id="tab20r65sr0c3" class="cell"><span>-
+</span></div><div id="tab20r65sr0c4" class="cell"><span>-
+</span></div><div id="tab20r65sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r66sr0" class="row rgrey2">
+<div id="tab20r66sr0c0" class="cell"><span id="tab20r66sr0_span"><a href="javascript:Org('5477')">[Candida] boidinii</a>
+</span><a id="tab20r66sr0_a" href="javascript:hideRows('tab20r66',0);"><img src="./images/icon_minus_white.png" title="hide entries" alt=" hide"></a></div><div id="tab20r66sr0c1" class="cell"><span>-
+</span></div><div id="tab20r66sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=484909" target="_blank">484909</a>, <a href="./literature.php?e=1.1.3.13&amp;r=484912" target="_blank">484912</a>, <a href="./literature.php?e=1.1.3.13&amp;r=484913" target="_blank">484913</a>, <a href="./literature.php?e=1.1.3.13&amp;r=484915" target="_blank">484915</a>, <a href="./literature.php?e=1.1.3.13&amp;r=484916" target="_blank">484916</a>, <a href="./literature.php?e=1.1.3.13&amp;r=484917" target="_blank">484917</a>, <a href="./literature.php?e=1.1.3.13&amp;r=484924" target="_blank">484924</a>, <a href="./literature.php?e=1.1.3.13&amp;r=686441" target="_blank">686441</a></span></div><div id="tab20r66sr0c3" class="cell"><span>-
+</span></div><div id="tab20r66sr0c4" class="cell"><span>-
+</span></div><div id="tab20r66sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div><div id="tab20r66sr1" class="row rgrey2">
+<div id="tab20r66sr1c0" class="cell notopborder"><span id="tab20r66sr1_span" class="hidden"><a href="javascript:Org('5477')">[Candida] boidinii</a>
+</span></div><div id="tab20r66sr1c1" class="cell"><span>-
+</span></div><div id="tab20r66sr1c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=690209" target="_blank">690209</a>
+</span></div><div id="tab20r66sr1c3" class="cell"><span><a href="javascript:Sequence2('Q00922')">Q00922</a>, <a href="javascript:Sequence2('Q5S058')">Q5S058</a></span></div><div id="tab20r66sr1c4" class="cell"><span>SwissProt
+</span></div><div id="tab20r66sr1c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div><div id="tab20r66sr2" class="row rgrey2">
+<div id="tab20r66sr2c0" class="cell notopborder"><span id="tab20r66sr2_span" class="hidden"><a href="javascript:Org('5477')">[Candida] boidinii</a>
+</span></div><div id="tab20r66sr2c1" class="cell"><span>-
+</span></div><div id="tab20r66sr2c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=763463" target="_blank">763463</a>
+</span></div><div id="tab20r66sr2c3" class="cell"><span><a href="javascript:Sequence2('Q00922')">Q00922</a>
+</span></div><div id="tab20r66sr2c4" class="cell"><span>SwissProt
+</span></div><div id="tab20r66sr2c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div><div id="tab20r66sr3" class="row rgrey2">
+<div id="tab20r66sr3c0" class="cell notopborder"><span id="tab20r66sr3_span" class="hidden"><a href="javascript:Org('5477')">[Candida] boidinii</a>
+</span></div><div id="tab20r66sr3c1" class="cell"><span>fragment
+</span></div><div id="tab20r66sr3c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=690209" target="_blank">690209</a>
+</span></div><div id="tab20r66sr3c3" class="cell"><span><a href="javascript:Sequence2('Q5S057')">Q5S057</a>
+</span></div><div id="tab20r66sr3c4" class="cell"><span>SwissProt
+</span></div><div id="tab20r66sr3c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div><div id="tab20r66sr4" class="row rgrey2">
+<div id="tab20r66sr4c0" class="cell notopborder"><span id="tab20r66sr4_span" class="hidden"><a href="javascript:Org('5477')">[Candida] boidinii</a>
+</span></div><div id="tab20r66sr4c1" class="cell"><span>gene AOD1
+</span></div><div id="tab20r66sr4c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=673755" target="_blank">673755</a>
+</span></div><div id="tab20r66sr4c3" class="cell"><span>-
+</span></div><div id="tab20r66sr4c4" class="cell"><span>-
+</span></div><div id="tab20r66sr4c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r67sr0" class="row rgrey1">
+<div id="tab20r67sr0c0" class="cell"><span id="tab20r67sr0_span"><a href="javascript:Org('50262')">[Candida] methanosorbosa</a>
+</span><a id="tab20r67sr0_a" href="javascript:hideRows('tab20r67',0);"><img src="./images/icon_minus_white.png" title="hide entries" alt=" hide"></a></div><div id="tab20r67sr0c1" class="cell"><span>fragment
+</span></div><div id="tab20r67sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=690209" target="_blank">690209</a>
+</span></div><div id="tab20r67sr0c3" class="cell"><span><a href="javascript:Sequence2('A5LGE5')">A5LGE5</a>
+</span></div><div id="tab20r67sr0c4" class="cell"><span>SwissProt
+</span></div><div id="tab20r67sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div><div id="tab20r67sr1" class="row rgrey1">
+<div id="tab20r67sr1c0" class="cell notopborder"><span id="tab20r67sr1_span" class="hidden"><a href="javascript:Org('50262')">[Candida] methanosorbosa</a>
+</span></div><div id="tab20r67sr1c1" class="cell"><span>M-2003
+</span></div><div id="tab20r67sr1c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=484925" target="_blank">484925</a>
+</span></div><div id="tab20r67sr1c3" class="cell"><span>-
+</span></div><div id="tab20r67sr1c4" class="cell"><span>-
+</span></div><div id="tab20r67sr1c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r68sr0" class="row rgrey2">
+<div id="tab20r68sr0c0" class="cell"><span><a href="javascript:Org('50262')">[Candida] methanosorbosa</a> M-2003
+</span></div><div id="tab20r68sr0c1" class="cell"><span>M-2003
+</span></div><div id="tab20r68sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=484925" target="_blank">484925</a>
+</span></div><div id="tab20r68sr0c3" class="cell"><span>-
+</span></div><div id="tab20r68sr0c4" class="cell"><span>-
+</span></div><div id="tab20r68sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r69sr0" class="row rgrey1">
+<div id="tab20r69sr0c0" class="cell"><span><a href="javascript:Org('246387')">[Candida] sithepensis</a>
+</span></div><div id="tab20r69sr0c1" class="cell"><span>isolated in Thailand
+</span></div><div id="tab20r69sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=675722" target="_blank">675722</a>
+</span></div><div id="tab20r69sr0c3" class="cell"><span>-
+</span></div><div id="tab20r69sr0c4" class="cell"><span>-
+</span></div><div id="tab20r69sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r70sr0" class="row rgrey2">
+<div id="tab20r70sr0c0" class="cell"><span><a href="javascript:Org('51926')">[Candida] sonorensis</a>
+</span></div><div id="tab20r70sr0c1" class="cell"><span>fragment
+</span></div><div id="tab20r70sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=690209" target="_blank">690209</a>
+</span></div><div id="tab20r70sr0c3" class="cell"><span><a href="javascript:Sequence2('A5LGD9')">A5LGD9</a>, <a href="javascript:Sequence2('A5LGE0')">A5LGE0</a></span></div><div id="tab20r70sr0c4" class="cell"><span>SwissProt
+</span></div><div id="tab20r70sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r71sr0" class="row rgrey1">
+<div id="tab20r71sr0c0" class="cell"><span><a href="javascript:Org('51927')">[Candida] succiphila</a>
+</span></div><div id="tab20r71sr0c1" class="cell"><span>fragment
+</span></div><div id="tab20r71sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=690209" target="_blank">690209</a>
+</span></div><div id="tab20r71sr0c3" class="cell"><span><a href="javascript:Sequence2('A5LGE6')">A5LGE6</a>
+</span></div><div id="tab20r71sr0c4" class="cell"><span>SwissProt
+</span></div><div id="tab20r71sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="tab20r32sr0" class="hidden rgrey2">
+<div id="tab20r32sr0c0" class="cell"><span id="tab20r32sr0_span"><a href="javascript:Org('870730')">Ogataea angusta</a>
+</span><a id="tab20r32sr0_a" href="javascript:hideRows('tab20r32',0);"><img src="./images/icon_minus_white.png" title="hide entries" alt=" hide"></a></div><div id="tab20r32sr0c1" class="cell"><span>-
+</span></div><div id="tab20r32sr0c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=484910" target="_blank">484910</a>, <a href="./literature.php?e=1.1.3.13&amp;r=484914" target="_blank">484914</a>, <a href="./literature.php?e=1.1.3.13&amp;r=484915" target="_blank">484915</a>, <a href="./literature.php?e=1.1.3.13&amp;r=484920" target="_blank">484920</a>, <a href="./literature.php?e=1.1.3.13&amp;r=484923" target="_blank">484923</a>, <a href="./literature.php?e=1.1.3.13&amp;r=656760" target="_blank">656760</a>, <a href="./literature.php?e=1.1.3.13&amp;r=657433" target="_blank">657433</a>, <a href="./literature.php?e=1.1.3.13&amp;r=672302" target="_blank">672302</a>, <a href="./literature.php?e=1.1.3.13&amp;r=673663" target="_blank">673663</a>, <a href="./literature.php?e=1.1.3.13&amp;r=684534" target="_blank">684534</a>, <a href="./literature.php?e=1.1.3.13&amp;r=685810" target="_blank">685810</a>, <a href="./literature.php?e=1.1.3.13&amp;r=686817" target="_blank">686817</a>, <a href="./literature.php?e=1.1.3.13&amp;r=690103" target="_blank">690103</a>, <a href="./literature.php?e=1.1.3.13&amp;r=690104" target="_blank">690104</a></span></div><div id="tab20r32sr0c3" class="cell"><span>-
+</span></div><div id="tab20r32sr0c4" class="cell"><span>-
+</span></div><div id="tab20r32sr0c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r32sr1" class="hidden rgrey2">
+<div id="tab20r32sr1c0" class="cell notopborder"><span id="tab20r32sr1_span" class="hidden"><a href="javascript:Org('870730')">Ogataea angusta</a>
+</span></div><div id="tab20r32sr1c1" class="cell"><span>-
+</span></div><div id="tab20r32sr1c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=690209" target="_blank">690209</a>
+</span></div><div id="tab20r32sr1c3" class="cell"><span><a href="javascript:Sequence2('P04841')">P04841</a>
+</span></div><div id="tab20r32sr1c4" class="cell"><span>SwissProt
+</span></div><div id="tab20r32sr1c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r32sr2" class="hidden rgrey2">
+<div id="tab20r32sr2c0" class="cell notopborder"><span id="tab20r32sr2_span" class="hidden"><a href="javascript:Org('870730')">Ogataea angusta</a>
+</span></div><div id="tab20r32sr2c1" class="cell"><span>-
+</span></div><div id="tab20r32sr2c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=724565" target="_blank">724565</a>
+</span></div><div id="tab20r32sr2c3" class="cell"><span>-
+</span></div><div id="tab20r32sr2c4" class="cell"><span>-
+</span></div><div id="tab20r32sr2c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r32sr3" class="hidden rgrey2">
+<div id="tab20r32sr3c0" class="cell notopborder"><span id="tab20r32sr3_span" class="hidden"><a href="javascript:Org('870730')">Ogataea angusta</a>
+</span></div><div id="tab20r32sr3c1" class="cell"><span>ATCC 26012
+</span></div><div id="tab20r32sr3c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=697064" target="_blank">697064</a>
+</span></div><div id="tab20r32sr3c3" class="cell"><span>-
+</span></div><div id="tab20r32sr3c4" class="cell"><span>-
+</span></div><div id="tab20r32sr3c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+<div id="tab20r32sr4" class="hidden rgrey2">
+<div id="tab20r32sr4c0" class="cell notopborder"><span id="tab20r32sr4_span" class="hidden"><a href="javascript:Org('870730')">Ogataea angusta</a>
+</span></div><div id="tab20r32sr4c1" class="cell"><span>i.e. Pichia angusta, gene MOX
+</span></div><div id="tab20r32sr4c2" class="cell"><span><a href="./literature.php?e=1.1.3.13&amp;r=673755" target="_blank">673755</a>
+</span></div><div id="tab20r32sr4c3" class="cell"><span>-
+</span></div><div id="tab20r32sr4c4" class="cell"><span>-
+</span></div><div id="tab20r32sr4c5" class="cell"><span><span class="source hidden">brenda</span><img src="./images/brenda_logo_8.gif" alt="Manually annotated by BRENDA team" title="Manually annotated by BRENDA team">
+</span></div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div id="tab20r3" class="hidden rgrey1">
+<div id="tab20r3c0" class="cell"><a href="javascript:Org('40380')">Aspergillus ochraceus</a>
+</div><div id="tab20r3c1" class="cell nowrap"><a class="rowpreview" href="javascript:showRows('tab20r3',0);"><img src="./images/icon_plus_white.png" alt="show "> 2 entries</a></div>
+<div id="tab20r3c2" class="cell noleftborder"></div>
+<div id="tab20r3c3" class="cell noleftborder"></div>
+<div id="tab20r3c4" class="cell noleftborder"></div>
+<div id="tab20r3c5" class="cell noleftborder"></div>
+</div><div id="tab20r4" class="hidden rgrey2">
+<div id="tab20r4c0" class="cell"><a href="javascript:Org('-777')">Aspergillus ochraceus AIU 031</a>
+</div><div id="tab20r4c1" class="cell nowrap"><a class="rowpreview" href="javascript:showRows('tab20r4',0);"><img src="./images/icon_plus_white.png" alt="show "> 2 entries</a></div>
+<div id="tab20r4c2" class="cell noleftborder"></div>
+<div id="tab20r4c3" class="cell noleftborder"></div>
+<div id="tab20r4c4" class="cell noleftborder"></div>
+<div id="tab20r4c5" class="cell noleftborder"></div>
+</div><div id="tab20r5" class="hidden rgrey1">
+<div id="tab20r5c0" class="cell"><a href="javascript:Org('33178')">Aspergillus terreus</a>
+</div><div id="tab20r5c1" class="cell nowrap"><a class="rowpreview" href="javascript:showRows('tab20r5',0);"><img src="./images/icon_plus_white.png" alt="show "> 2 entries</a></div>
+<div id="tab20r5c2" class="cell noleftborder"></div>
+<div id="tab20r5c3" class="cell noleftborder"></div>
+<div id="tab20r5c4" class="cell noleftborder"></div>
+<div id="tab20r5c5" class="cell noleftborder"></div>
+</div><div id="tab20r20" class="hidden rgrey2">
+<div id="tab20r20c0" class="cell"><a href="javascript:Org('4922')">Komagataella pastoris</a>
+</div><div id="tab20r20c1" class="cell nowrap"><a class="rowpreview" href="javascript:showRows('tab20r20',0);"><img src="./images/icon_plus_white.png" alt="show "> 8 entries</a></div>
+<div id="tab20r20c2" class="cell noleftborder"></div>
+<div id="tab20r20c3" class="cell noleftborder"></div>
+<div id="tab20r20c4" class="cell noleftborder"></div>
+<div id="tab20r20c5" class="cell noleftborder"></div>
+</div><div id="tab20r24" class="hidden rgrey2">
+<div id="tab20r24c0" class="cell"><a href="javascript:Org('460519')">Komagataella phaffii</a>
+</div><div id="tab20r24c1" class="cell nowrap"><a class="rowpreview" href="javascript:showRows('tab20r24',0);"><img src="./images/icon_plus_white.png" alt="show "> 3 entries</a></div>
+<div id="tab20r24c2" class="cell noleftborder"></div>
+<div id="tab20r24c3" class="cell noleftborder"></div>
+<div id="tab20r24c4" class="cell noleftborder"></div>
+<div id="tab20r24c5" class="cell noleftborder"></div>
+</div><div id="tab20r37" class="hidden rgrey1">
+<div id="tab20r37c0" class="cell"><a href="javascript:Org('1156966')">Ogataea methanolica</a>
+</div><div id="tab20r37c1" class="cell nowrap"><a class="rowpreview" href="javascript:showRows('tab20r37',0);"><img src="./images/icon_plus_white.png" alt="show "> 4 entries</a></div>
+<div id="tab20r37c2" class="cell noleftborder"></div>
+<div id="tab20r37c3" class="cell noleftborder"></div>
+<div id="tab20r37c4" class="cell noleftborder"></div>
+<div id="tab20r37c5" class="cell noleftborder"></div>
+</div><div id="tab20r39" class="hidden rgrey1">
+<div id="tab20r39c0" class="cell"><a href="javascript:Org('36026')">Ogataea minuta</a>
+</div><div id="tab20r39c1" class="cell nowrap"><a class="rowpreview" href="javascript:showRows('tab20r39',0);"><img src="./images/icon_plus_white.png" alt="show "> 2 entries</a></div>
+<div id="tab20r39c2" class="cell noleftborder"></div>
+<div id="tab20r39c3" class="cell noleftborder"></div>
+<div id="tab20r39c4" class="cell noleftborder"></div>
+<div id="tab20r39c5" class="cell noleftborder"></div>
+</div><div id="tab20r53" class="hidden rgrey1">
+<div id="tab20r53c0" class="cell"><a href="javascript:Org('2822231')">Phanerodontia chrysosporium</a>
+</div><div id="tab20r53c1" class="cell nowrap"><a class="rowpreview" href="javascript:showRows('tab20r53',0);"><img src="./images/icon_plus_white.png" alt="show "> 2 entries</a></div>
+<div id="tab20r53c2" class="cell noleftborder"></div>
+<div id="tab20r53c3" class="cell noleftborder"></div>
+<div id="tab20r53c4" class="cell noleftborder"></div>
+<div id="tab20r53c5" class="cell noleftborder"></div>
+</div><div id="tab20r58" class="hidden rgrey2">
+<div id="tab20r58c0" class="cell"><a href="javascript:Org('4925')">Pichia sp.</a>
+</div><div id="tab20r58c1" class="cell nowrap"><a class="rowpreview" href="javascript:showRows('tab20r58',0);"><img src="./images/icon_plus_white.png" alt="show "> 2 entries</a></div>
+<div id="tab20r58c2" class="cell noleftborder"></div>
+<div id="tab20r58c3" class="cell noleftborder"></div>
+<div id="tab20r58c4" class="cell noleftborder"></div>
+<div id="tab20r58c5" class="cell noleftborder"></div>
+</div><div id="tab20r66" class="hidden rgrey2">
+<div id="tab20r66c0" class="cell"><a href="javascript:Org('5477')">[Candida] boidinii</a>
+</div><div id="tab20r66c1" class="cell nowrap"><a class="rowpreview" href="javascript:showRows('tab20r66',0);"><img src="./images/icon_plus_white.png" alt="show "> 5 entries</a></div>
+<div id="tab20r66c2" class="cell noleftborder"></div>
+<div id="tab20r66c3" class="cell noleftborder"></div>
+<div id="tab20r66c4" class="cell noleftborder"></div>
+<div id="tab20r66c5" class="cell noleftborder"></div>
+</div><div id="tab20r67" class="hidden rgrey1">
+<div id="tab20r67c0" class="cell"><a href="javascript:Org('50262')">[Candida] methanosorbosa</a>
+</div><div id="tab20r67c1" class="cell nowrap"><a class="rowpreview" href="javascript:showRows('tab20r67',0);"><img src="./images/icon_plus_white.png" alt="show "> 2 entries</a></div>
+<div id="tab20r67c2" class="cell noleftborder"></div>
+<div id="tab20r67c3" class="cell noleftborder"></div>
+<div id="tab20r67c4" class="cell noleftborder"></div>
+<div id="tab20r67c5" class="cell noleftborder"></div>
+</div></div>
