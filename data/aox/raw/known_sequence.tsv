@@ -1,23 +1,23 @@
-accession	ph	organism	taxid	pid
-EAA66666.1	Ascomycota	Aspergillus nidulans FGSC A4	227341	23525937
-AAR89538.1	Ascomycota	Bipolaris victoriae	40125	11056160
-AAV66467.2	Ascomycota	[Candida] boidinii	5477	16032762
-AAV66468.1	Ascomycota	[Candida] boidinii	5477	16032762
-AAF82788.1	Ascomycota	Fulvia fulva	5499	11277434
-XP_001838223.2	Basidiomycota	Coprinopsis cinerea okayama7#130	240179	23022488
-XP_007868339.1	Basidiomycota	Gloeophyllum trabeum ATCC 11539	670483	17660304
-CAM84030.1	Ascomycota	Ogataea angusta	870730	2582370,17567895
-CAM84031.1	Ascomycota	Ogataea angusta	870730	2582370,17567895
-CAM84032.1	Ascomycota	Ogataea angusta	870730	2582370,17567895
-AAB57849.1	Ascomycota	Komagataella pastoris	4922	3889590,2660463
-AAB57850.1	Ascomycota	Komagataella pastoris	4922	3889590,2660463
-AFO55203.1	Basidiomycota	Moniliophthora perniciosa	153609	23022488
-AHC95541.1	Ascomycota	Ogataea thermomethanolica (nom. inval.)	310468	24671405
-AAL56054.1	Ascomycota	Penicillium chrysogenum	5076	11935224
-CDG66232.1	Basidiomycota	Phanerodontia chrysosporium	2822231	17660304
-UXW61383.1	Basidiomycota	Phanerodontia chrysosporium	2822231	17660304
-AAF02494.1	Ascomycota	Ogataea methanolica	1156966	9483792
-AAF02495.1	Ascomycota	Ogataea methanolica	1156966	9483792
-AAQ99151.1	Ascomycota	Ogataea pini	4923	16169288
-AAV66465.1	Ascomycota	Pichia sp. BZ159	300826	16032762
-AAV66466.1	Ascomycota	Pichia sp. BZ159	300826	16032762
+accession	ph	cls	organism	taxid	pid
+EAA66666.1	Ascomycota	Eurotiomycetes	Aspergillus nidulans FGSC A4	227321	23525937
+AAR89538.1	Ascomycota	Dothideomycetes	Bipolaris victoriae	40125	11056160
+AAV66467.2	Ascomycota	Saccharomycetes	[Candida] boidinii	5477	16032762
+AAV66468.1	Ascomycota	Saccharomycetes	[Candida] boidinii	5477	16032762
+AAF82788.1	Ascomycota	Dothideomycetes	Fulvia fulva	5499	11277434
+XP_001838223.2	Basidiomycota	Agaricomycetes	Coprinopsis cinerea okayama7#130	240179	23022488
+XP_007868339.1	Basidiomycota	Agaricomycetes	Gloeophyllum trabeum ATCC 11539	670483	17660304
+CAM84030.1	Ascomycota	Saccharomycetes	Ogataea angusta	870730	2582370,17567895
+CAM84031.1	Ascomycota	Saccharomycetes	Ogataea angusta	870730	2582370,17567895
+CAM84032.1	Ascomycota	Saccharomycetes	Ogataea angusta	870730	2582370,17567895
+AAB57849.1	Ascomycota	Saccharomycetes	Komagataella pastoris	4922	3889590,2660463
+AAB57850.1	Ascomycota	Saccharomycetes	Komagataella pastoris	4922	3889590,2660463
+AFO55203.1	Basidiomycota	Agaricomycetes	Moniliophthora perniciosa	153609	23022488
+AHC95541.1	Ascomycota	Saccharomycetes	Ogataea thermomethanolica (nom. inval.)	310468	24671405
+AAL56054.1	Ascomycota	Eurotiomycetes	Penicillium chrysogenum	5076	11935224
+CDG66232.1	Basidiomycota	Agaricomycetes	Phanerodontia chrysosporium	2822231	17660304
+UXW61383.1	Basidiomycota	Agaricomycetes	Phanerodontia chrysosporium	2822231	17660304
+AAF02494.1	Ascomycota	Saccharomycetes	Ogataea methanolica	1156966	9483792
+AAF02495.1	Ascomycota	Saccharomycetes	Ogataea methanolica	1156966	9483792
+AAQ99151.1	Ascomycota	Saccharomycetes	Ogataea pini	4923	16169288
+AAV66465.1	Ascomycota	Saccharomycetes	Pichia sp. BZ159	300826	16032762
+AAV66466.1	Ascomycota	Saccharomycetes	Pichia sp. BZ159	300826	16032762

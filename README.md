@@ -18,6 +18,8 @@ conda install scipy
 conda install scikit-learn
 ```
 
+Tips: you will need another conda env for PyMol according to the version of PyMol distribution.
+
 ### Bioinformatic tools
 
 | Software    | Version                    | URL                                                          |
@@ -49,35 +51,3 @@ The repository contains the necessary intermediate files needed to reproduce the
 | UniProt       | https://www.uniprot.org/               |
 | NCBI          | https://www.ncbi.nlm.nih.gov/protein   |
 | NCBI Taxonomy | https://ftp.ncbi.nih.gov/pub/taxonomy/ |
-
-
-
-## Steps
-
-### Download data
-
-Get the corresponding list page from the Brenda's EC page and UniProt search page. Save the results to the files. For alcohol oxidase (EC 1.1.3.13), the pages are:
-
-https://www.brenda-enzymes.org/enzyme.php?ecno=1.1.3.13
-
-https://www.uniprot.org/uniprotkb?query=(ec:1.1.3.13)%20NOT%20(ec:1.1.3.20)
-
-The focus here is on sequence, literature and organisms.
-
-| Database | Content                                                    |
-| -------- | ---------------------------------------------------------- |
-| Brenda   | sequence(Uniprot ID), organism(name), Reference(PubMed ID) |
-| UniProt  | Entry, Reviewed, Organism, Sequence, PubMed ID             |
-| PubMed   |                                                            |
-
-UniProt database as a primary source of sequence data.
-
-
-
-
-
-
-
-
-
-2. 

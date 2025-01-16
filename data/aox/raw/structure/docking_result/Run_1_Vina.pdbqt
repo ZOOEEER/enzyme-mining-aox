@@ -1,0 +1,90 @@
+MODEL 1
+REMARK VINA RESULT:    -2.197      0.000      0.000
+REMARK INTER + INTRA:          -2.197
+REMARK INTER:                  -2.197
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  O           0       4.657 -15.243 176.646  0.00  0.00    -0.406 OA
+HETATM    2  C           0       5.253 -16.016 175.620  0.00  0.00     0.197 C 
+HETATM    3  H           0       3.712 -15.469 176.662  0.00  0.00     0.208 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -1.868     10.519     10.519
+REMARK INTER + INTRA:          -1.868
+REMARK INTER:                  -1.868
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  O           0       7.844 -16.083 186.701  0.00  0.00    -0.406 OA
+HETATM    2  C           0       8.501 -15.585 185.550  0.00  0.00     0.197 C 
+HETATM    3  H           0       8.144 -15.548 187.455  0.00  0.00     0.208 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -1.517      3.472      3.472
+REMARK INTER + INTRA:          -1.517
+REMARK INTER:                  -1.517
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  O           0       7.879 -17.198 176.644  0.00  0.00    -0.406 OA
+HETATM    2  C           0       7.035 -18.323 176.807  0.00  0.00     0.197 C 
+HETATM    3  H           0       8.123 -17.157 175.704  0.00  0.00     0.208 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -1.451      3.103      3.103
+REMARK INTER + INTRA:          -1.451
+REMARK INTER:                  -1.451
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  O           0       7.853 -17.289 176.706  0.00  0.00    -0.406 OA
+HETATM    2  C           0       7.372 -16.617 175.556  0.00  0.00     0.197 C 
+HETATM    3  H           0       7.544 -16.788 177.480  0.00  0.00     0.208 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -1.376      2.770      2.770
+REMARK INTER + INTRA:          -1.376
+REMARK INTER:                  -1.376
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  O           0       5.798 -18.315 176.131  0.00  0.00    -0.406 OA
+HETATM    2  C           0       6.814 -17.386 175.802  0.00  0.00     0.197 C 
+HETATM    3  H           0       6.239 -19.132 176.417  0.00  0.00     0.208 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -0.870     11.927     11.927
+REMARK INTER + INTRA:          -0.870
+REMARK INTER:                  -0.870
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  O           0      15.167 -14.575 181.224  0.00  0.00    -0.406 OA
+HETATM    2  C           0      15.312 -14.505 182.631  0.00  0.00     0.197 C 
+HETATM    3  H           0      14.615 -13.821 180.956  0.00  0.00     0.208 HD
+ENDROOT
+TORSDOF 0
+ENDMDL

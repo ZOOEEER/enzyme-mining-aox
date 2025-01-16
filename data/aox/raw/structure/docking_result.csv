@@ -1,0 +1,10 @@
+NAME,POSE,"Affinity
+(kcal/mol)","dist from best mode
+RMSD l.b.","dist from best mode
+RMSD u.b."
+01_methanol_Vina,1,-2.197,0.000,0.000
+01_methanol_Vina,2,-1.868,10.519,10.519
+01_methanol_Vina,3,-1.517,3.472,3.472
+01_methanol_Vina,4,-1.451,3.103,3.103
+01_methanol_Vina,5,-1.376,2.770,2.770
+01_methanol_Vina,6,-0.870,11.927,11.927
